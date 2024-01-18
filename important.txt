@@ -1,0 +1,16 @@
+Task1: Build a simple Task Management System using Node.js
+Requirements:
+1. Use Node.js and a framework of your choice (e.g., Express.js) to build a task management system.
+2. Implement a user authentication system (e.g., username/password or social login) to allow users to sign up and log in.
+3. Implement authentication and authorization mechanisms (e.g., JWT, sessions) to secure the API.
+4. Share PostMan collection for testing (OR Create an interface where users can create, view, update, and delete tasks).
+5. Implement task categories or labels to organize tasks.
+6. Allow users to set due dates, priorities, and status for tasks.
+7. Implement search and filtering functionality to find specific tasks.
+8. Store tasks and user information in a database (e.g., MongoDB, PostgreSQL, MySql) for persistence.
+9. Implement notifications or reminders for upcoming or overdue tasks.
+10. Write unit tests for critical components of your application using a testing framework of your choice (e.g., Mocha, Jest).
+11. Include proper error handling and validation for incoming requests.
+12. Implement logging for debugging and error tracking.
+13. Use environment variables for configuration and sensitive information.
+14. Include a README file with instructions on how to set up and run your application.

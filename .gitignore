@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Optional: Environment variables file
+.env
